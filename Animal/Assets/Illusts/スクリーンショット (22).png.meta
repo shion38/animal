@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 2b99ac6412ff0c24cbcadafc71d79263
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7032338865099601133
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_0"
+  - first:
+      213: -3746336682875454963
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_1"
+  - first:
+      213: -5721258631437462871
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_2"
+  - first:
+      213: 8048334084134602998
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_3"
+  - first:
+      213: -6040370229900505733
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_4"
+  - first:
+      213: -3736455930091979332
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_5"
+  - first:
+      213: 7115136406816508198
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_6"
+  - first:
+      213: 3487792741085591988
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_7"
+  - first:
+      213: -6883546632624411742
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_8"
+  - first:
+      213: -9031520307583986073
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_9"
+  - first:
+      213: -9159157953336678151
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_10"
+  - first:
+      213: 1068997419330954110
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_11"
+  - first:
+      213: -2675383674091580696
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_12"
+  - first:
+      213: 1884888404338128577
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_13"
+  - first:
+      213: -1857192486913310605
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_14"
+  - first:
+      213: -770305017777247538
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_15"
+  - first:
+      213: -7215164865581702672
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_16"
+  - first:
+      213: 8047125401075337920
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_17"
+  - first:
+      213: -4045850879221171148
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_18"
+  - first:
+      213: -7849295165317175451
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_19"
+  - first:
+      213: 94300818395528639
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_20"
+  - first:
+      213: -6099295851397434903
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_21"
+  - first:
+      213: 3780448618983293304
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_22"
+  - first:
+      213: -7856027015938370538
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_23"
+  - first:
+      213: -8804109105119179443
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_24"
+  - first:
+      213: -2682738895658321273
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_25"
+  - first:
+      213: 8420303277542570688
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_26"
+  - first:
+      213: -1721010816958990269
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_27"
+  - first:
+      213: -4642625980185837198
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_28"
+  - first:
+      213: 2089082135378886560
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_29"
+  - first:
+      213: 3704730902139751735
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_30"
+  - first:
+      213: 1092464606982763983
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_31"
+  - first:
+      213: 4756887090481961117
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_32"
+  - first:
+      213: -1659530712308224669
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_33"
+  - first:
+      213: -3613418061223405089
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_34"
+  - first:
+      213: -1936428928258798997
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_35"
+  - first:
+      213: -6800665868935002399
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_36"
+  - first:
+      213: 5423125807783153454
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_37"
+  - first:
+      213: 1292305395798616104
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_38"
+  - first:
+      213: 8777322695574822485
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_39"
+  - first:
+      213: 7416231360932402751
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_40"
+  - first:
+      213: -1079635220461573968
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_41"
+  - first:
+      213: 8197292038634516368
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_42"
+  - first:
+      213: 1426198789671867986
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_43"
+  - first:
+      213: 2369687422087790462
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_44"
+  - first:
+      213: 8036241862439754512
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_45"
+  - first:
+      213: 2281325310396711669
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_46"
+  - first:
+      213: -2858289886109080344
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_47"
+  - first:
+      213: -5621150737645502252
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_48"
+  - first:
+      213: -6791917701801650642
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_49"
+  - first:
+      213: 7836455182812238641
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_50"
+  - first:
+      213: -7919636022333907121
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_51"
+  - first:
+      213: -298336757552744895
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_52"
+  - first:
+      213: -8803466366748780558
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_53"
+  - first:
+      213: 7752663374451948209
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_54"
+  - first:
+      213: 8091111540191406894
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_55"
+  - first:
+      213: 4446710286988344837
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_56"
+  - first:
+      213: -1741346424259578568
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_57"
+  - first:
+      213: 8415714643091250349
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_58"
+  - first:
+      213: -7948143262793200090
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_59"
+  - first:
+      213: 5738499494873312589
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_60"
+  - first:
+      213: -5185300984227291596
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_61"
+  - first:
+      213: -693539666621426758
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_62"
+  - first:
+      213: -3055319227793366784
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_63"
+  - first:
+      213: -1495333234365975503
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_64"
+  - first:
+      213: -6556906990871575710
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_65"
+  - first:
+      213: 3435993452890093232
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_66"
+  - first:
+      213: -6631047689889451214
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_67"
+  - first:
+      213: 1292379745934875418
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_68"
+  - first:
+      213: -3734092698506201168
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_69"
+  - first:
+      213: -9179585553169301740
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_70"
+  - first:
+      213: 9013783812569300870
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_71"
+  - first:
+      213: 3603284413821702078
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_72"
+  - first:
+      213: 4275403419016626060
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_73"
+  - first:
+      213: -3487457469107287572
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_74"
+  - first:
+      213: 3636109967439950959
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_75"
+  - first:
+      213: 4825758462317309900
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_76"
+  - first:
+      213: -9125340229911396782
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_77"
+  - first:
+      213: 3427554586945887973
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_78"
+  - first:
+      213: 1658323295096391898
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_79"
+  - first:
+      213: -788739647752800698
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_80"
+  - first:
+      213: -8283214536792419114
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_81"
+  - first:
+      213: -2013074771361720288
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_82"
+  - first:
+      213: 3928372962913027912
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_83"
+  - first:
+      213: 145133337804747880
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_84"
+  - first:
+      213: -1129967493986243111
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_85"
+  - first:
+      213: 843470779360870280
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_86"
+  - first:
+      213: -6503661668084444627
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_87"
+  - first:
+      213: 6135118060699990969
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_88"
+  - first:
+      213: -4172338325326031619
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_89"
+  - first:
+      213: -1661684345085752368
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_90"
+  - first:
+      213: 1361885180863835990
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_91"
+  - first:
+      213: -1631911286100416251
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_92"
+  - first:
+      213: 1742375758062022421
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_93"
+  - first:
+      213: 4860875538566907348
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_94"
+  - first:
+      213: -1544790159293079577
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_95"
+  - first:
+      213: -379477634868112657
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_96"
+  - first:
+      213: -8959436526837716888
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_97"
+  - first:
+      213: 1931532649358161529
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_98"
+  - first:
+      213: 754416407797093716
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_99"
+  - first:
+      213: -8547356510889287586
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_100"
+  - first:
+      213: 7343903298785058868
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_101"
+  - first:
+      213: -3386259842967545455
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_102"
+  - first:
+      213: -745893556274629919
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_103"
+  - first:
+      213: -4305479374481064269
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_104"
+  - first:
+      213: 1858087795282435865
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_105"
+  - first:
+      213: 6232938167830861833
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_106"
+  - first:
+      213: 6505640923656327258
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_107"
+  - first:
+      213: -2020364905664332416
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_108"
+  - first:
+      213: -2675065118279202901
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_109"
+  - first:
+      213: -1449565050703615674
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_110"
+  - first:
+      213: -5483603017180640846
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_111"
+  - first:
+      213: 2638768891175624159
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_112"
+  - first:
+      213: 826503741034178702
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_113"
+  - first:
+      213: 4484856752477561497
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_114"
+  - first:
+      213: 1683809963023318046
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_115"
+  - first:
+      213: 814232248419283549
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_116"
+  - first:
+      213: 5711356385099512608
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_117"
+  - first:
+      213: -3352698580798422517
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_118"
+  - first:
+      213: 4395195081187572115
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_119"
+  - first:
+      213: -6576311871895048189
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_120"
+  - first:
+      213: -3461098288068005904
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_121"
+  - first:
+      213: 8627767402801856960
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_122"
+  - first:
+      213: -2254316782477990005
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_123"
+  - first:
+      213: 4826464949687509947
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_124"
+  - first:
+      213: -1571622557159139114
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_125"
+  - first:
+      213: -4103080967717383231
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_126"
+  - first:
+      213: 33644840920841447
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_127"
+  - first:
+      213: -2319885663188327379
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_128"
+  - first:
+      213: 6302804722733468934
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_129"
+  - first:
+      213: -6164627796457938260
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_130"
+  - first:
+      213: -3916562221093554770
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_131"
+  - first:
+      213: -8859858286523507094
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_132"
+  - first:
+      213: -7954882304161098204
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_133"
+  - first:
+      213: -2674353192452794327
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_134"
+  - first:
+      213: -8663197642389690555
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_135"
+  - first:
+      213: -7414005918524068580
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_136"
+  - first:
+      213: 5342362942314255741
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_137"
+  - first:
+      213: -2676742337959268189
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_138"
+  - first:
+      213: -5604016574999516995
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_139"
+  - first:
+      213: -3987369284768436455
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_140"
+  - first:
+      213: 7588302919473599446
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_141"
+  - first:
+      213: 2575290085368156303
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_142"
+  - first:
+      213: 3031033053329750468
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_143"
+  - first:
+      213: -4173765888386425136
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_144"
+  - first:
+      213: 7601791187216090796
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_145"
+  - first:
+      213: -6452048600960524995
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_146"
+  - first:
+      213: 5024754218735004594
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_147"
+  - first:
+      213: 1553586245823612707
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_148"
+  - first:
+      213: -6245843361958158895
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_149"
+  - first:
+      213: 517909549050637761
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_150"
+  - first:
+      213: 1276508463044143344
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_151"
+  - first:
+      213: 5278213422370892709
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_152"
+  - first:
+      213: -2941155421563893288
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_153"
+  - first:
+      213: 6086765732716525708
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_154"
+  - first:
+      213: -256883650822452992
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_155"
+  - first:
+      213: -328689679119122124
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_156"
+  - first:
+      213: 2605866386730401586
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_157"
+  - first:
+      213: 5940327767641455787
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_158"
+  - first:
+      213: 544376461801083542
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_159"
+  - first:
+      213: 7345720537358134805
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_160"
+  - first:
+      213: -5317110888003357121
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_161"
+  - first:
+      213: 9147703828853818780
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_162"
+  - first:
+      213: -1905139522794753274
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_163"
+  - first:
+      213: -1949573539472193270
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_164"
+  - first:
+      213: 395577526125824187
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_165"
+  - first:
+      213: 5470829431117674667
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_166"
+  - first:
+      213: -5890264682391380822
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_167"
+  - first:
+      213: -8278971715394901417
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_168"
+  - first:
+      213: -4387878687249464526
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_169"
+  - first:
+      213: 3185468953172934174
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_170"
+  - first:
+      213: 6274720064892226089
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_171"
+  - first:
+      213: 762780539041943023
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_172"
+  - first:
+      213: 6550054249270063393
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_173"
+  - first:
+      213: -1644268355109279806
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_174"
+  - first:
+      213: -7794708233014569942
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_175"
+  - first:
+      213: -7642821774886147219
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_176"
+  - first:
+      213: 5614403357725729847
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_177"
+  - first:
+      213: 5997548001243655687
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_178"
+  - first:
+      213: -7546482059378645457
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_179"
+  - first:
+      213: 8757760813734652649
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_180"
+  - first:
+      213: 2089670773574511214
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_181"
+  - first:
+      213: -5710669035860450948
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_182"
+  - first:
+      213: 6356513768032730185
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_183"
+  - first:
+      213: -3710590344012217600
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_184"
+  - first:
+      213: 6201195152936982970
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_185"
+  - first:
+      213: 6444939955105290421
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_186"
+  - first:
+      213: -7692098964013674605
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_187"
+  - first:
+      213: 7448334134872644437
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_188"
+  - first:
+      213: 2372050465539857742
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_189"
+  - first:
+      213: 4935078814286658801
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_190"
+  - first:
+      213: -2317778230469996140
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_191"
+  - first:
+      213: -8840043973741997902
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_192"
+  - first:
+      213: -1660077775776398452
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_193"
+  - first:
+      213: 8637245689030658706
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_194"
+  - first:
+      213: -71906744869945964
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_195"
+  - first:
+      213: 6517053465188665791
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_196"
+  - first:
+      213: 1543711000396205828
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_197"
+  - first:
+      213: 6400735716295382508
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_198"
+  - first:
+      213: -5523681782255554718
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_199"
+  - first:
+      213: 4518110720546004622
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_200"
+  - first:
+      213: -7509761183584668504
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_201"
+  - first:
+      213: -1943318033269993333
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_202"
+  - first:
+      213: 5917515286156085242
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_203"
+  - first:
+      213: 5238740927351664422
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_204"
+  - first:
+      213: -5464416706037923553
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_205"
+  - first:
+      213: -2281508550886975727
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_206"
+  - first:
+      213: -8334728004004086114
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_207"
+  - first:
+      213: 5814688908767813736
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_208"
+  - first:
+      213: -1794257130600545069
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_209"
+  - first:
+      213: 832425146354579091
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_210"
+  - first:
+      213: -1626648789647136800
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_211"
+  - first:
+      213: 3042398464211550927
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_212"
+  - first:
+      213: 7346161120928910261
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_213"
+  - first:
+      213: 957881813067941802
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_214"
+  - first:
+      213: 229247717285136860
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_215"
+  - first:
+      213: 7832730770438357039
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_216"
+  - first:
+      213: -4494587670913263237
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_217"
+  - first:
+      213: -2404231279522219090
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_218"
+  - first:
+      213: -2460458167305110103
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_219"
+  - first:
+      213: 2646524993498579058
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_220"
+  - first:
+      213: 4604315630861505719
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_221"
+  - first:
+      213: -8950737254230603519
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_222"
+  - first:
+      213: -209711048465929839
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_223"
+  - first:
+      213: 3368876187596360993
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_224"
+  - first:
+      213: -4581218886607571398
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_225"
+  - first:
+      213: -3957943311707108259
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_226"
+  - first:
+      213: -5998042709202276948
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_227"
+  - first:
+      213: 831160392629431193
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_228"
+  - first:
+      213: 854085464658057608
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_229"
+  - first:
+      213: 365136591494065154
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_230"
+  - first:
+      213: 7461374115548984107
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_231"
+  - first:
+      213: 7866187077378680316
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_232"
+  - first:
+      213: -8706270415516075285
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_233"
+  - first:
+      213: -809109474557996938
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_234"
+  - first:
+      213: 6324973644275603398
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_235"
+  - first:
+      213: -1323988024386850374
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_236"
+  - first:
+      213: -5955999894024202287
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_237"
+  - first:
+      213: -3066274226598029131
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_238"
+  - first:
+      213: 7478022330455044738
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_239"
+  - first:
+      213: -8515317449028820711
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_240"
+  - first:
+      213: -4009597243745312298
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_241"
+  - first:
+      213: -8912720011890479829
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_242"
+  - first:
+      213: 7051098538897461957
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_243"
+  - first:
+      213: -1273748260579057045
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_244"
+  - first:
+      213: -7977276185015311638
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_245"
+  - first:
+      213: 5719589706677528327
+    second: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_246"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_1"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 600
+        width: 404
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a7138c2a6520cc0800000000000000
+      internalID: -3746336682875454963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_4"
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 267
+        width: 394
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d8fe6774b4c2ca0800000000000000
+      internalID: -6040370229900505733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 (22)_6"
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 5
+        width: 379
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6294fb84dda0eb260800000000000000
+      internalID: 7115136406816508198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
