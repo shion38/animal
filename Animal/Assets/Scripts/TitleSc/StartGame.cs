@@ -7,6 +7,6 @@ public class StartGame : MonoBehaviour
 {
     public void LoadingNewScene()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("SampleScene");//メインシーンへ
     }
 }
