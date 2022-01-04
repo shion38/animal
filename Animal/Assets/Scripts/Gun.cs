@@ -12,8 +12,6 @@ public class Gun : MonoBehaviour
     //弾のプレハブオブジェクト
     public GameObject tama;
 
-    //public GameObject targetObj;
-
 
     //一秒ごとに弾を発射するためのもの
     private float targetTime = 1f;
@@ -21,12 +19,16 @@ public class Gun : MonoBehaviour
     private GameObject target;
 
     // Update is called once per frame
-    void FixedUpdate()
+    void Update()
     {
         target = GameObject.FindWithTag("Player");
 
         if (Vector3.Distance(transform.position, target.transform.position) < 5f)
         {
+            // ターゲットの方向に自身を回転させる
+            var vec_gun = (target.transform.position - this.transform.position).normalized;
+            this.transform.rotation = Quaternion.FromToRotation(Vector3.up, vec_gun);
+
             //一秒経つごとに弾を発射する
             currentTime += Time.deltaTime;
             if (targetTime < currentTime)
