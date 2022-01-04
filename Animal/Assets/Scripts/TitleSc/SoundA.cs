@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class SoundA : MonoBehaviour
 {
-    public double volumes = 0.05;
+    public static double volumes = 0.05;
     public GameObject Audio;
     // Start is called before the first frame update
     void Start()
@@ -18,6 +18,6 @@ public class SoundA : MonoBehaviour
     {
         AudioSource audio = GetComponent<AudioSource>();
         audio.volume = Audio.GetComponent<ChangeAudio>().nowVo;
-
+        volumes = audio.volume;
     }
 }
