@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Esa
   - Image
+  - Goal
   layers:
   - Default
   - TransparentFX

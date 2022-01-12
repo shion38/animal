@@ -24,4 +24,14 @@ public class Enemy1 : MonoBehaviour
             pointIndex++;
         }
     }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Goal"))
+        {
+
+            //このオブジェクトを非表示にする破壊
+            Destroy(gameObject);
+
+        }
+    }
 }
