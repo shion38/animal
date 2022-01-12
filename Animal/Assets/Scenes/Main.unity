@@ -1561,7 +1561,6 @@ GameObject:
   - component: {fileID: 179916871}
   - component: {fileID: 179916874}
   - component: {fileID: 179916875}
-  - component: {fileID: 179916876}
   m_Layer: 8
   m_Name: Tori
   m_TagString: Untagged
@@ -1692,22 +1691,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 9.49, y: 7.96}
   m_EdgeRadius: 0
---- !u!114 &179916876
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 179916870}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c9ba0e5824e977541ad76eff0c613a26, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  hp: 1
-  speed: 2
-  gold: 0
-  route: {fileID: 441095728}
 --- !u!1 &185582179
 GameObject:
   m_ObjectHideFlags: 0
@@ -16826,7 +16809,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c9ba0e5824e977541ad76eff0c613a26, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hp: 1
+  hp: 0
   speed: 1
   gold: 0
   route: {fileID: 1414207214}
