@@ -29,7 +29,7 @@ public class Enemy1 : MonoBehaviour
         if (collision.gameObject.CompareTag("Goal"))
         {
 
-            //このオブジェクトを非表示にする破壊
+            //このオブジェクトを破壊
             Destroy(gameObject);
 
         }
